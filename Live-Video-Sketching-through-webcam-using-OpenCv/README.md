@@ -22,10 +22,8 @@
 ### Note that video performance differs depending upon your Webcam. To improve performance, you might want to play around with the canny_edges 30,60  and the binarize 240 values in the code. Change them such that it suits your webcam
 
 # Authors
-## Kaushik Jadhav
+## Yuvraj Singh 
 <ul>
-<li>Github:https://github.com/kaushikjadhav01</li>
-<li>Medium:https://medium.com/@kaushikjadhav01</li>
-<li>LinkedIn:https://www.linkedin.com/in/kaushikjadhav01/</li>
-<li>Portfolio:http://kaushikjadhav01.github.io/</li>
+<li>Github:https://github.com/Yuvrajj07</li>
+<li>Codechef:https://www.codechef.com/users/yuvraj7878</li>
 </ul>
